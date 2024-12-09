@@ -16,4 +16,5 @@ This app has some basic functions such as:
 
 
 Video tutorial: [https://www.youtube.com/watch?v=LUcUn-_KVXo&t=6962s](https://www.youtube.com/watch?v=LUcUn-_KVXo&t=6962s)
+
 Demo: [https://github.com/hudy9x/huditor/releases/download/v0.0.0/huditor_0.0.0_x64_en-US.msi](https://github.com/hudy9x/huditor/releases/download/v0.0.0/huditor_0.0.0_x64_en-US.msi)
