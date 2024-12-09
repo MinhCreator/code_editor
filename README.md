@@ -16,7 +16,4 @@ This app has some basic functions such as:
 
 
 Video tutorial: [https://www.youtube.com/watch?v=LUcUn-_KVXo&t=6962s](https://www.youtube.com/watch?v=LUcUn-_KVXo&t=6962s)
-
-Blog version: [https://dev.to/hudy9x/ive-cloned-a-simple-vscode-using-tauri-and-reactjs-2fn4](https://dev.to/hudy9x/ive-cloned-a-simple-vscode-using-tauri-and-reactjs-2fn4)
-
 Demo: [https://github.com/hudy9x/huditor/releases/download/v0.0.0/huditor_0.0.0_x64_en-US.msi](https://github.com/hudy9x/huditor/releases/download/v0.0.0/huditor_0.0.0_x64_en-US.msi)
